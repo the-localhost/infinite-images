@@ -1,4 +1,4 @@
-# INFINTE IMAGES
+# INFINITE IMAGES
 
 This web app can be used to view high-quality images endlessly.
 
