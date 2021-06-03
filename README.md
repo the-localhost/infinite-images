@@ -1,3 +1,5 @@
+# INFINTE IMAGES
+
 This web app can be used to view high-quality images endlessly.
 
 Enjoy my app here: [INFINITE IMAGES](https://the-localhost.github.io/infinite-images/)
