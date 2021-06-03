@@ -8,3 +8,5 @@ The feature of infinite scrolling.
 You can also download these images by clicking on images which takes you to original page of [Unsplash](https://unsplash.com/).
 
 I've used the API by Unsplash to get high quality free licensed images
+
+## FEEDBACKS are welcome!
